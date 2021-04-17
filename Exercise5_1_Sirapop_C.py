@@ -1,0 +1,6 @@
+Numerical1 = int(input("Num1: "))
+Numerical2 = int(input("Num2: "))
+print(Numerical1+Numerical2)
+print(Numerical1-Numerical2)
+print(Numerical1*Numerical2)
+print (Numerical1/Numerical2)
